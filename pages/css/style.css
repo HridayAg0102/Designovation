@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	font-family: 'Poppins', sans-serif;
+	/*font-family: 'Poppins', sans-serif;*/
 }
 body:before {
 	content: '';
@@ -111,7 +111,7 @@ select {
 
   select:hover,
   select:focus {
-	color: #c0392b;
+	color: #343a40;
 	background-color: white;
 	border-bottom-color: #DCDCDC;
   }
@@ -122,5 +122,5 @@ select {
   }
   select:hover ~ .select-icon svg.icon,
   select:focus ~ .select-icon svg.icon {
-	fill: #c0392b;
+	fill: #343a40;
   }
