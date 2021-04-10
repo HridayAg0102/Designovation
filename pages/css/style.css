@@ -24,8 +24,8 @@ body:before {
 	left: 50%;
 	transform: translate(-50%, -50%);
 	width: 400px;
-	height: 500px;
-	padding: 80px 80px;
+	height: 450px;
+	padding: 30px 80px;
 	background: rgba(0, 0, 0, 0.5);
 }
 .avatar {
@@ -39,7 +39,6 @@ body:before {
 }
 .contact-form h2 {
 	margin: 0;
-	padding: 0 0 20px;
 	color: #fff;
 	text-align: center;
 	
